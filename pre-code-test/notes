@@ -1,0 +1,2 @@
+- I changed logger to use a class instead of a protoype just for showing some ES6 even though there's functionally no difference
+- The tests added are just some easy ones, mainly duplicating what's in the useLogger.js file. If you were looking for something different, just let me know.
